@@ -1,0 +1,8 @@
+E:\operations\operations\bin\Debug\operations.exe.config
+E:\operations\operations\bin\Debug\operations.exe
+E:\operations\operations\bin\Debug\operations.pdb
+E:\operations\operations\obj\Debug\operations.csproj.AssemblyReference.cache
+E:\operations\operations\obj\Debug\operations.csproj.SuggestedBindingRedirects.cache
+E:\operations\operations\obj\Debug\operations.csproj.CoreCompileInputs.cache
+E:\operations\operations\obj\Debug\operations.exe
+E:\operations\operations\obj\Debug\operations.pdb
