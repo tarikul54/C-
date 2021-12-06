@@ -1,0 +1,8 @@
+E:\mathpractice\mathpractice\bin\Debug\mathpractice.exe.config
+E:\mathpractice\mathpractice\bin\Debug\mathpractice.exe
+E:\mathpractice\mathpractice\bin\Debug\mathpractice.pdb
+E:\mathpractice\mathpractice\obj\Debug\mathpractice.csproj.AssemblyReference.cache
+E:\mathpractice\mathpractice\obj\Debug\mathpractice.csproj.SuggestedBindingRedirects.cache
+E:\mathpractice\mathpractice\obj\Debug\mathpractice.csproj.CoreCompileInputs.cache
+E:\mathpractice\mathpractice\obj\Debug\mathpractice.exe
+E:\mathpractice\mathpractice\obj\Debug\mathpractice.pdb
