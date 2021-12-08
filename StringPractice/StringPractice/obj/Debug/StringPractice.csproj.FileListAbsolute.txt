@@ -1,0 +1,8 @@
+E:\StringPractice\StringPractice\bin\Debug\StringPractice.exe.config
+E:\StringPractice\StringPractice\bin\Debug\StringPractice.exe
+E:\StringPractice\StringPractice\bin\Debug\StringPractice.pdb
+E:\StringPractice\StringPractice\obj\Debug\StringPractice.csproj.AssemblyReference.cache
+E:\StringPractice\StringPractice\obj\Debug\StringPractice.csproj.SuggestedBindingRedirects.cache
+E:\StringPractice\StringPractice\obj\Debug\StringPractice.csproj.CoreCompileInputs.cache
+E:\StringPractice\StringPractice\obj\Debug\StringPractice.exe
+E:\StringPractice\StringPractice\obj\Debug\StringPractice.pdb
