@@ -1,0 +1,8 @@
+E:\ArrayPractice\ArrayPractice\bin\Debug\ArrayPractice.exe.config
+E:\ArrayPractice\ArrayPractice\bin\Debug\ArrayPractice.exe
+E:\ArrayPractice\ArrayPractice\bin\Debug\ArrayPractice.pdb
+E:\ArrayPractice\ArrayPractice\obj\Debug\ArrayPractice.csproj.AssemblyReference.cache
+E:\ArrayPractice\ArrayPractice\obj\Debug\ArrayPractice.csproj.SuggestedBindingRedirects.cache
+E:\ArrayPractice\ArrayPractice\obj\Debug\ArrayPractice.csproj.CoreCompileInputs.cache
+E:\ArrayPractice\ArrayPractice\obj\Debug\ArrayPractice.exe
+E:\ArrayPractice\ArrayPractice\obj\Debug\ArrayPractice.pdb
